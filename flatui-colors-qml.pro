@@ -15,4 +15,5 @@ include(deployment.pri)
 OTHER_FILES += \
     LICENSE \
     CHANGELOG.md \
-    README.md
+    README.md \
+    qmldir
