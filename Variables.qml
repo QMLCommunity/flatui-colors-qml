@@ -74,7 +74,7 @@ Item {
         readonly property color body_bg    : "#ffffff"
         readonly property color text_color : primary
 
-        //** Global textual link color.
+        // Global textual link color.
         readonly property color link_color       : green_sea
         readonly property color link_hover_color : turquoise
     }
