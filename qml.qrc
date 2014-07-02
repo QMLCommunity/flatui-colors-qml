@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>FlatUi.qml</file>
+        <file>Variables.qml</file>
         <file>qmldir</file>
     </qresource>
 </RCC>

@@ -42,7 +42,7 @@ Window {
 
     Rectangle {
         anchors.fill: parent
-        color: FlatUi.colors.pomegranate
+        color: FlatUI.colors.pomegranate
     }
 
     MouseArea {
